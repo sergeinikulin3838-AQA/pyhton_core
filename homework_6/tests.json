@@ -1,0 +1,27 @@
+[
+  {
+    "name": "test_login",
+    "status": "PASS",
+    "duration": 1.5
+  },
+  {
+    "name": "test_logout",
+    "status": "FAIL",
+    "duration": 2.0
+  },
+  {
+    "name": "test_registration",
+    "status": "PASS",
+    "duration": 3.5
+  },
+  {
+    "name": "test_profile",
+    "status": "SKIP",
+    "duration": 0
+  },
+  {
+    "name": "test_payment",
+    "status": "FAIL",
+    "duration": 4.0
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "login": "admin",
+    "password": "admin123",
+    "expected_result": "SUCCESS"
+  },
+  {
+    "login": "tester",
+    "password": "test123",
+    "expected_result": "SUCCESS"
+  },
+  {
+    "login": "blocked_user",
+    "password": "wrong123",
+    "expected_result": "FAIL"
+  }
+]
